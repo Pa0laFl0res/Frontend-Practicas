@@ -1,0 +1,21 @@
+div {
+	height: 400px:
+}
+
+
+.fondoRepetidoxX {
+	background-image: url();
+background-repeat: repeat-x;
+}
+
+
+.fondo0pacidad {
+	background-color: ;
+	opacity: 0.6;
+}
+
+
+.fondoImagen {
+	background-image: url();
+	background-repeat: repeat-x;
+}
